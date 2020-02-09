@@ -1,0 +1,56 @@
+a{
+    text-decoration: none !important;
+    color: white;
+}
+
+
+.tableColor {
+    background-color: #4b962b !important;
+}
+
+.tableMoreEffet{
+    background-color: #d9d70d !important;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+
+.bin {
+    color: red;
+}
+
+.edit {
+    color: green;
+}
+
+.truck {
+    color: #2862cf;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+  }
+
+td .maxValue{
+    
+    background-color: #4b962b !important;
+}
+
+
+
+.MoreVision{
+    font-weight: bold;
+    color : red;
+}
+
+.maxValue {
+    background-color: #4b962b !important;
+}
